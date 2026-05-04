@@ -6,8 +6,9 @@ This project is developed using PHP and MySQL.
 - User login
 - Report submission
 - Admin panel
--Work submit 
+- Daily Work submit 
 -Report Download 
+
 
 
 ## Author
